@@ -1,3 +1,3 @@
-# BibTEX file collection
+# BibTeX file collection
 
-Collection of BibTEX and BiblaTEX files.
+Collection of BibTeX and BibLaTeX files.
